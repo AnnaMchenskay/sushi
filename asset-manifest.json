@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sushi/static/css/main.9b97db6f.css",
+    "main.js": "/sushi/static/js/main.74ade780.js",
+    "static/media/sushi.jpg": "/sushi/static/media/sushi.94d7b68364d5b9f008de.jpg",
+    "index.html": "/sushi/index.html",
+    "main.9b97db6f.css.map": "/sushi/static/css/main.9b97db6f.css.map",
+    "main.74ade780.js.map": "/sushi/static/js/main.74ade780.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b97db6f.css",
+    "static/js/main.74ade780.js"
+  ]
+}
